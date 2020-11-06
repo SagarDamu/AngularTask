@@ -1,0 +1,14 @@
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.bg{
+    background-color:lemonchiffon;
+    border: 2px solid lightseagreen;
+    border-radius: 20px;
+    box-shadow: 15px 10px #888888;
+}
+
+.mg{
+    margin-top: 50px;
+}
